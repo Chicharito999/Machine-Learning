@@ -1,5 +1,36 @@
-##[K-means](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
+## Basic profile
+* Name: Mingfu Zhao
+ 
+* Education:Junior,Shandong Unviersity
+ 
+* Student ID: 201400301087
+ 
+* Email:1109646702@qq.com
+ 
+## Course Understand
+ 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Chapter learning
+* 
+* 
+* 
+* 
+* 
+
+
+## Experiments
+* [K-means]()
+* 
+* 
+* 
+* 
+
+
+## Useful Links
+* 
+* 
+* 
+* 
+* 
