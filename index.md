@@ -23,8 +23,8 @@
 ## Experiments
 * [K-means](https://github.com/Chicharito999/K-means)
 * [BayesClassification](https://github.com/Chicharito999/BayesClassification)
-* [MLE](https://github.com/Chicharito999/MLE)
-* [BE](https://github.com/Chicharito999/BE)
+* [MaximumLikelihoodEstimate](https://github.com/Chicharito999/MLE)
+* [BayesianEstimation](https://github.com/Chicharito999/BE)
 * 
 * 
 * 
