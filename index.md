@@ -21,12 +21,15 @@
 
 
 ## Experiments
-* [K-means]()
+* [K-means](https://github.com/Chicharito999/K-means)
+* [BayesClassification](https://github.com/Chicharito999/BayesClassification)
+* [MLE](https://github.com/Chicharito999/MLE)
+* [BE](https://github.com/Chicharito999/BE)
 * 
 * 
 * 
 * 
-
+* 
 
 ## Useful Links
 * 
