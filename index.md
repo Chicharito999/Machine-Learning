@@ -23,11 +23,11 @@
 ## Experiments
 * [K-means](https://github.com/Chicharito999/K-means)
 * [BayesClassification](https://github.com/Chicharito999/BayesClassification)
-* [MaximumLikelihoodEstimate](https://github.com/Chicharito999/MLE)
-* [BayesianEstimation](https://github.com/Chicharito999/BE)
-* 
-* 
-* 
+* [MaximumLikelihood Estimate](https://github.com/Chicharito999/MLE)
+* [Bayesian Estimation](https://github.com/Chicharito999/BE)
+* [Parzen Window Estimation](https://github.com/Chicharito999/Parzen)
+* [K-nearest Neighbor Estimation](https://github.com/Chicharito999/Kn)
+* [Linear Discriminant Function](https://github.com/Chicharito999/IDF)
 * 
 * 
 
